@@ -1,3 +1,4 @@
+
 Feature: ID-02 Asignación Inteligente de Tareas
 
     Como supervisor, deseo utilizar la funcionalidad de asignación inteligente de tareas en la plataforma para distribuir el trabajo de manera equitativa y eficiente, 
